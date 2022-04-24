@@ -1,0 +1,46 @@
+div{
+    
+    height: auto;
+    width: auto;
+    background-color: lightslategray;
+    
+}
+
+p{
+    animation-name: a1;
+    animation-duration: 5s;
+    transition: width 3s;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+
+}
+
+@keyframes a1{
+
+    from{
+        font-size: 30px;
+        color: aqua;
+    }
+    to{
+        font-size:50px ;
+        color: crimson;
+    }
+}
+
+td{
+    padding-right: 100px;
+    color: blue;
+    font-size: 50px;
+}
+
+body{
+    background-color: lightpink;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}

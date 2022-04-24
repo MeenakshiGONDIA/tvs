@@ -1,0 +1,39 @@
+
+td{
+    border:1px;
+}
+div{
+    height:300px;
+    width: 500px;
+    float:left;
+    margin-left: 150px;
+    
+}
+
+img{
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+    border:0ch;
+    
+    
+}
+
+#i1{
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+#d1{
+    float:inline-end;
+    height:auto;
+    text-align: center;
+}
+
+body{
+    background-color: lightpink;
+}
